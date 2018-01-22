@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="gitopject"
+  name="gitObject"
   id="myeclipse.1516581738583"
   context-root="/gitopject"
   j2ee-spec="5.0"
-  archive="gitopject.war">
+  archive="gitObject.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
