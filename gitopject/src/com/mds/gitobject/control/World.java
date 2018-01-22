@@ -1,5 +1,5 @@
 package com.mds.gitobject.control;
 
-public class world {
+public class World {
 
 }

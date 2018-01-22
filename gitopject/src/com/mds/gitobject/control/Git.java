@@ -1,6 +1,6 @@
 package com.mds.gitobject.control;
 
-public class git {
+public class Git {
 	public void printString(){
 		System.out.println("hello world");
 		System.out.println("123456789");
